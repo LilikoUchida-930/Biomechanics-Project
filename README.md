@@ -8,3 +8,5 @@ Files included in this repository:
 *HBP_input_stance_corrected - data for body segment coordinates, accelerations, inertias, and moments for 79 various data points. These data points were used in calculating the forces and moments and were gathered prior to the project via body motion sensors.
 
 *Biomechanics_Code.m - Matlab code for the equations of motion and generating unknown moments and forces along with their graphs. 
+
+*Biomechanics Final Report.pdf - Final report for class assignment with introduction, methods, results, and discussion. 
